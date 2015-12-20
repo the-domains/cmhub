@@ -1,0 +1,28 @@
+name: CMHub
+favicon: null
+layout_spectrum: 0.9719026808161288
+typography_spectrum: 0.46258082473650575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8160728309303522
+  lightness: 0.18625706736929715
+  saturation: 0.5514897021930665
+  rhythmicContrast: 0.30361254583112895
+purpose: []
